@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmaurya2002" alt="sachinmaurya2002" /></a> </p>
 
+- 🌐 **Check out my new interactive portfolio:** [https://my-portfolio-two-virid-82.vercel.app/](https://my-portfolio-two-virid-82.vercel.app/)
+
 - 🔭 I’m currently working on [Safar Market Place](https://github.com/SachinMaurya2002/SafarMarketPlace/tree/main)
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, and Generative AI**
